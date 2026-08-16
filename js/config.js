@@ -46,7 +46,7 @@ const API_SITES = {
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
-        detail: 'http://ffzy5.tv', 
+        detail: 'http://svip.feifei-play.com',
     },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod',
