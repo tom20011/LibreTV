@@ -25,7 +25,7 @@ const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
-        detail: 'http://caiji.dyttzyapi.com', 
+        detail: 'http://caiji.dyttzyapi.com',
     },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
@@ -34,6 +34,11 @@ const API_SITES = {
     bfzy: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
         name: '暴风资源',
+    },
+    bfzy: {
+        api: 'https://bfzyapi.com/api.php/provide/vod',
+        name: '天涯资源',
+        detail: 'https://tyyszywjx.com/?url=',
     },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
@@ -51,7 +56,12 @@ const API_SITES = {
     jisu: {
         api: 'https://jszyapi.com/api.php/provide/vod',
         name: '极速资源',
-        detail: 'https://jisuzyjx.com/play/?url=', 
+        detail: 'https://jisuzyjx.com/play/?url=',
+    },
+    dbzy: {
+        api: 'https://caiji.dbzy5.com/api.php/provide/vod',
+        name: '豆瓣资源',
+        detail: 'https://www.dbjiexi.com:966/jx/?url=',
     },
     mdzy: {
         api: 'https://www.mdzyapi.com/api.php/provide/vod',
