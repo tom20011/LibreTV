@@ -35,11 +35,6 @@ const API_SITES = {
         api: 'https://bfzyapi.com/api.php/provide/vod',
         name: '暴风资源',
     },
-    bfzy: {
-        api: 'https://bfzyapi.com/api.php/provide/vod',
-        name: '天涯资源',
-        detail: 'https://tyyszywjx.com/?url=',
-    },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
