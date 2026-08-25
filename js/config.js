@@ -37,8 +37,7 @@ const API_SITES = {
     },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
-        name: '非凡影视',
-        detail: 'http://svip.feifei-play.com',
+        name: '非凡影视'
     },
     zy360: {
         api: 'https://360zy.com/api.php/provide/vod',
@@ -81,8 +80,7 @@ const API_SITES = {
     },
     lzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
-        name: '量子资源站',
-        detail: 'https://lziplayer.com/?url='
+        name: '量子资源站'
     }
 };
 
