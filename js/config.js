@@ -79,8 +79,9 @@ const API_SITES = {
         name: 'iKun资源'
     },
     lzi: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod/',
-        name: '量子资源站'
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '量子资源',
+        detail: 'https://lziplayer.com/?url='
     }
 };
 
